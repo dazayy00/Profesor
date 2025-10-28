@@ -1,0 +1,6 @@
+Logic\GestionProfesores.class
+Model\ProfesorTitular.class
+Model\Persona.class
+Model\Profesor.class
+Model\ProfesorInterino.class
+GUI\VentanaProfesores.class
