@@ -49,23 +49,23 @@ public class VentanaProfesores extends JFrame {
         comboTipo = new JComboBox<>(new String[]{" Profesor Titular ", " Profesor Interino "});
         panelForm.add(comboTipo);
         
-        panelForm.add(new JLabel(" Nombre: "));
+        panelForm.add(new JLabel("   Nombre:   "));
         txtNombre = new JTextField();
         panelForm.add(txtNombre);
         
-        panelForm.add(new JLabel(" Apellidos: "));
+        panelForm.add(new JLabel("   Apellidos:   "));
         txtApellidos = new JTextField();
         panelForm.add(txtApellidos);
         
-        panelForm.add(new JLabel(" Edad: "));
+        panelForm.add(new JLabel("   Edad:   "));
         txtEdad = new JTextField();
         panelForm.add(txtEdad);
         
-        panelForm.add(new JLabel(" ID Profesor: "));
+        panelForm.add(new JLabel("   ID Profesor:   "));
         txtId = new JTextField();
         panelForm.add(txtId);
         
-        JButton btnAgregar = new JButton(" Agregar ");
+        JButton btnAgregar = new JButton("   Agregar   ");
         panelForm.add(new JLabel());
         panelForm.add(btnAgregar);
         
