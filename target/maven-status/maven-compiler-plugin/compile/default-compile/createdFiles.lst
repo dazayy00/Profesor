@@ -1,6 +1,8 @@
-Logic\GestionProfesores.class
+Logic\ProfesorInterinoService.class
+Model\Profesor.class
+GUI\VentanaProfesores.class
+Logic\ProfesorManager.class
+Logic\ProfesorTitularService.class
 Model\ProfesorTitular.class
 Model\Persona.class
-Model\Profesor.class
 Model\ProfesorInterino.class
-GUI\VentanaProfesores.class
